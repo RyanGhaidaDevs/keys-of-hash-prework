@@ -9,5 +9,6 @@ class Hash
          arr << key
       end
     end
-    arr 
+  end 
+    arr
 end
